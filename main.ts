@@ -1,3 +1,6 @@
+function doSomething () {
+	
+}
 let column = 0
 let row = 0
 basic.showIcon(IconNames.Ghost)
